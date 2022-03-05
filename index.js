@@ -48,3 +48,5 @@ function sum(array){
 }
 sum([6,4,3,5,3,2,5])
 console.log(sum([6,4,3,5,3,2,5]));
+
+//hey we are done with the demo
